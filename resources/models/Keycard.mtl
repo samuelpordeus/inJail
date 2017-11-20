@@ -1,0 +1,35 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl Steel_Brushed_Stainless
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.874510 0.894118 0.909804
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Keycard/Steel_Brushed_Stainless.jpg
+
+newmtl my_gold
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.827451 0.796078 0.047059
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Keycard/my_gold.jpg
+
+newmtl my_green
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.733333 0.117647
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Keycard/my_green.jpg

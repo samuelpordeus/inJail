@@ -1,0 +1,35 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl _Aluminum_1
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.447059 0.447059 0.447059
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Huge Battery/_Aluminum_1.jpg
+
+newmtl fluid
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.160784 0.113725
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Huge Battery/fluid.jpg
+
+newmtl my_white.003
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.905882 0.905882 0.905882
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Mapa/my_white.jpg
