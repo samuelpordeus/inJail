@@ -23,7 +23,7 @@ enum Camera_Movement {
 // Default camera values
 const GLfloat YAW        =  180.0f;
 const GLfloat PITCH      =  0.0f;
-const GLfloat SPEED      =  4.0f;
+const GLfloat SPEED      =  15.0f;
 const GLfloat SENSITIVTY =  0.2f;
 const GLfloat ZOOM       =  45.0f;
 
@@ -83,6 +83,7 @@ public:
             this->Position -= this->Right * velocity;
         if (direction == RIGHT)
             this->Position += this->Right * velocity;
+
 
         this->Position.y += offsetY;
 
